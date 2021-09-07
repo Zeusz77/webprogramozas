@@ -9,7 +9,7 @@ Az állampolgárok adatait az alábbi objektumokból álló tömb tartalmazza:
 [
     {
         id: 1001,
-        nev: 'Lanyesz'
+        nev: 'Lanyesz',
         szuletett: 1997,
         kereset: 2000000
     },
