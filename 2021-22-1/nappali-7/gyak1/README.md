@@ -53,7 +53,7 @@ ___
 
 Egy hatósági kimutatáshoz az ELTÓ népének szüksége van minden 2000 előtt született állampolárnak a személyes azonosítójára.
 
-Készíts programot ami kilistázza a 2000 előtt született állampolgárok ID-ját.
+Készíts JS programot ami kilistázza a 2000 előtt született állampolgárok ID-ját.
 
 ___
 
@@ -61,10 +61,10 @@ ___
 
 Az állampolgárok közül kinek a legnagyobb a keresete?
 
-Készíts programot ami kiírja a legnagyobb keresetű állampolgár nevét és születési évét.
+Készíts JS programot ami kiírja a legnagyobb keresetű állampolgár nevét és születési évét.
 ___
 ## C feladat
 
 Melyik 2000 után született állampolgár keresete a legalacsonyabb?
 
-Készíts programot ami kírja a legkisebb keresetű 2000 után született állampolgár nevét, ID-ját és keresetét.
+Készíts JS programot ami kírja a legkisebb keresetű 2000 után született állampolgár nevét, ID-ját és keresetét.
