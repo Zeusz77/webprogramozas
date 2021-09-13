@@ -20,10 +20,10 @@ const cegek = [
 
 let tablazat = document.createElement('table')
 
-let headerSor = document.createElement('th')
+let headerSor = document.createElement('tr')
 
 header.forEach(element => {
-    let sor = document.createElement('td')
+    let sor = document.createElement('th')
     sor.innerHTML = element
     headerSor.appendChild(sor)
 })
