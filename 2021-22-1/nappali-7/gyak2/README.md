@@ -32,7 +32,7 @@ A raktár tartalmát az alábbi tömb tartalmazza:
         durability: 55
     },
     {
-        weapon: 'Kel-Tec RFB 7.62x51',
+        weapon: 'Kel-Tec RFB',
         type: 'Assault carbine',
         durability: 100
     },
