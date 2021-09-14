@@ -48,7 +48,7 @@ ___
 
 ## Feladat
 
-Az ELTÓ honvédelme szeretné látni a fegyverek típusát és állapotát ránézésből, és szeretné hogy hogyha a háttérben is tartalmazva lennének.
+Az ELTÓ honvédelme szeretné látni a fegyverek típusát és állapotát ránézésből, és szeretné hogyha ezek a háttérben is tartalmazva lennének.
 
 Készíts egy JS programot ami az *Assault Rifle* typusú fegyvereket dőlt betűvel, az **Assault carbine** típusú fegyvereket félkövéren a ***Sniper rifle*** típusú fegyvereket pedig dőlt betűvel félkövéren jeleníti meg.
 
