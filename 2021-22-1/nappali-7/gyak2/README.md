@@ -52,6 +52,8 @@ Az ELTÓ honvédelme szeretné látni a fegyverek típusát és állapotát rán
 
 Készíts egy JS programot ami az *Assault Rifle* typusú fegyvereket dőlt betűvel, az **Assault carbine** típusú fegyvereket félkövéren a ***Sniper rifle*** típusú fegyvereket pedig dőlt betűvel félkövéren jeleníti meg.
 
+A fegyvereket egy rendezetlen lista tartalmazza (unordered list).
+
 Ha a fegyver durability-je 70% alatt van akkor a betűszín legyen piros, ha felette akkor legyen zöld.
 
 A honlapon csak a fegyver neve jelenjen meg, viszont egy egy dataset tartalmazza a másik két attribútumot.
