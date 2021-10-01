@@ -37,8 +37,8 @@ cegek.forEach(element => {
         ujelem.innerText = element[elem]
         ujsor.appendChild(ujelem)
     })*/
-    //ujsor.innerHTML = `<td>${element.Cegnev}</td><td>${element.Adoszam}</td><td>${element.Ipar}</td>`
-    ujsor.innerHTML = header.reduce((a, b) =>{ return a + `<td>${element[b]}</td>`}, '')
+    ujsor.innerHTML = `<td>${element.Cegnev}</td><td>${element.Adoszam}</td><td>${element.Ipar}</td>`
+    //ujsor.innerHTML = header.reduce((a, b) =>{ return a + `<td>${element[b]}</td>`}, '')
     tablazat.appendChild(ujsor)
 })
 

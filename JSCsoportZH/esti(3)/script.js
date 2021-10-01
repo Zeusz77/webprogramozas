@@ -86,7 +86,7 @@ function select(event, elem){
 
 delegal(table, 'tr', 'click', select)
 
-shoot.addEventListener('click', ()=>{
+shoot.addEventListener('click', (event)=>{
     table.querySelectorAll('.selected').forEach(elem => {
         let need = elem.querySelector('.need')
         let input = parseInt(document.querySelector('#ammo').value)
