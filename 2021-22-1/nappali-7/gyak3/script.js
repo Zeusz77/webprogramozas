@@ -151,8 +151,8 @@ palces.forEach(elem => {
     list.appendChild(li)
 })
 
-function select(event){
-    event.target.classList.toggle('selected')
+function select(event, elem){
+    elem.classList.toggle('selected')
 }
 
 delegal(list, 'li', 'click', select)
