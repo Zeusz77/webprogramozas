@@ -34,7 +34,7 @@ const button = document.querySelector('button')
 
 for(let elem of data){
     let tmp = document.createElement('li')
-    tmp.innerHTML = `${elem.Name} ${elem.Nick} ${elem.No}`
+    tmp.innerHTML = `Name: ${elem.Name}, Codename: ${elem.Nick}, Number: ${parseInt(elem.No)}`
     ul.appendChild(tmp)
 }
 
@@ -46,7 +46,7 @@ button.addEventListener('click', (event)=>{
             "No": no.value
         }
         let tmp = document.createElement('li')
-        tmp.innerHTML = `${elem.Name} ${elem.Nick} ${parseInt(elem.No)}`
+        tmp.innerHTML = `Name: ${elem.Name}, Codename: ${elem.Nick}, Number: ${parseInt(elem.No)}`
         ul.appendChild(tmp)
         data.push(elem)
         console.log(data)
